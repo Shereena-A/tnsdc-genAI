@@ -15,3 +15,7 @@ Advantages: The project stands out by leveraging autoencoders to effectively cap
 
 
 
+https://github.com/Shereena-A/tnsdc-genAI/assets/142101818/9e71ab2a-3b2d-419a-a736-6cf84361b2ac
+
+
+
